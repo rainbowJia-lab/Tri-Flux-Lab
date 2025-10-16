@@ -1,0 +1,18 @@
+Tri-Flux-Lab/
+├── README.md                
+├── 00_research_overview.md  
+├── prompts/
+│   ├── roles.md             
+│   ├── affect.md            
+│   └── task.md             
+├── eval/
+│   ├── metrics.md           
+│   ├── score_template.csv   
+│   └── jaccard.py           
+├── runs/
+│   ├── day1_log.txt         
+│   └── proposal_v1.md       
+├── figs/
+│   ├── overview.png         
+│   └── metrics_map.png      
+└── reproduce.sh             
